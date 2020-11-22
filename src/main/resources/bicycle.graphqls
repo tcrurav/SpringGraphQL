@@ -1,0 +1,14 @@
+type Bicycle {
+	id: ID!,
+	brand: String,
+	model: String
+}
+
+type Query {
+	bicycles: [Bicycle],
+	bicycle(id: ID): Bicycle
+}
+
+type Mutation {
+	createBicycle(brand: String, model: String): Bicycle
+}
