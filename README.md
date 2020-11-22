@@ -23,9 +23,15 @@ Once you have followed all the steps above, run the project as Spring Boot App.
 
 If everything went well you can now try your backend using GraphiQL accessing through a web browser as you can see in the images below:
 
+Query to show all bicycles:
+
 ![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-query.png)
 
+Mutation to add a new bicycle:
+
 ![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-mutation.png)
+
+Query to show all bicycles now shows the new created bicycle:
 
 ![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-last_query.png)
 
