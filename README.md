@@ -11,13 +11,13 @@ $ git clone https://github.com/tcrurav/SpringGraphQL.git
 ```
 
 Open your Eclipse IDE and run this project as Spring boot App. If you don't know how, watch the following steps of this video: https://www.youtube.com/watch?v=DvzGf0cAlg4
-    - Install last JDK LTS.
-    - Install Eclipse IDE for Java EE Developers.
-    - Configure your Eclipse IDE with your JDK.
-    - Install STS (Spring Tool Suite from Pivotal Company).
-    - Install MySQL Workbench.
-    - Import the db_bicycles_gql.sql file of this project in your MySQL Server.
-    - Configure your connection to MySQL editing user/password in the file application.properties of this project.
+* Install last JDK LTS.
+* Install Eclipse IDE for Java EE Developers.
+* Configure your Eclipse IDE with your JDK.
+* Install STS (Spring Tool Suite from Pivotal Company).
+* Install MySQL Workbench.
+* Import the db_bicycles_gql.sql file of this project in your MySQL Server.
+* Configure your connection to MySQL editing user/password in the file application.properties of this project.
 
 Once you have followed all the steps above, run the project as Spring Boot App.
 
