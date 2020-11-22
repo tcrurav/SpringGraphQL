@@ -23,9 +23,11 @@ Once you have followed all the steps above, run the project as Spring Boot App.
 
 If everything went well you can now try your backend using GraphiQL accessing through a web browser as you can see in the images below:
 
+![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-query.png)
+
 ![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-mutation.png)
 
-![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-query.png)
+![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-last_query.png)
 
 ## Prerequisites
 
