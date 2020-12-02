@@ -35,6 +35,10 @@ Query to show all bicycles now shows the new created bicycle:
 
 ![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-last_query.png)
 
+You can also query from Postman if you prefer:
+
+![alt text](https://github.com/tcrurav/SpringGraphQL/blob/master/screenshots/screenshot-query-postman.png)
+
 ## Prerequisites
 
 You need a working environment with:
